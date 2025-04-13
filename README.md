@@ -1,4 +1,6 @@
-# pleasantad
+# PLEASANTAD
+
+Güncel Sürüm: 1.0
 
 Reklam Engelleyici Plugin 
 
